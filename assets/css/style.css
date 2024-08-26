@@ -92,11 +92,11 @@ main {
 
 /* Footer */
 #social-networks {
-  text-align: center;
-  padding: 20px 0;
-  display: flex;
-  justify-content: space-evenly;
-  list-style-type: none;
+text-align: center;
+padding: 20px 0;
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
 }
 
 #social-networks i {
@@ -124,8 +124,7 @@ main {
         padding-left: 1rem;
     }
 
-    .nav-toggle-label {
-        display: none;
+    .nav-toggle-label {display: none;
     }
 
     #logo {
